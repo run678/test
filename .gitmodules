@@ -1,0 +1,3 @@
+[submodule "common_eml_lib"]
+	path = common_eml_lib
+	url = git@github.com:mxcapital/common_eml_lib.git
